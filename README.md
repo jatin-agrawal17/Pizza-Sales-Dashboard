@@ -3,15 +3,15 @@
 
 ---
 
-🚀 This project demonstrates a complete pipeline from **CSV to MySQL**, followed by visualization using **Tableau**.
-📊 It uses `pizza_sales.csv` as the primary dataset and creates dashboards to analyze pizza sales trends.
-🧭 Builds **navigator-style dashboards** that allow seamless navigation between views for better insights.
-🎨 Tableau dashboards use **pizza-themed backgrounds and icons** for an engaging visual experience.
+- 🚀 This project demonstrates a complete pipeline from **CSV to MySQL**, followed by visualization using **Tableau**.
+- 📊 It uses `pizza_sales.csv` as the primary dataset and creates dashboards to analyze pizza sales trends.
+- 🧭 Builds **navigator-style dashboards** that allow seamless navigation between views for better insights.
+- 🎨 Tableau dashboards use **pizza-themed backgrounds and icons** for an engaging visual experience.
 
 
 ## 🚀 Live Demo
 
-🔗 [Pizza Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/jatin.agrawal4143/viz/PizzaSalesAnalysis_17517039475160/Home)
+🔗 https://public.tableau.com/app/profile/jatin.agrawal4143/viz/PizzaSalesAnalysis_17517039475160/Home
 
 ## 🧠 Features
 
@@ -68,16 +68,16 @@ pip install -r requirements.txt
 ## 📂 Project Structure
 
 
-📦 Pizza Sales Dashboard
-│
-├── pizza_sales.csv ← Raw data file
-├── export_data.py ← Script to load CSV into MySQL
-├── Pizza Tableau 1.jpg ← Background for Dashboard 1 (Home)
-├── Pizza Tableau 2.jpg ← Background for Dashboard 2 (Best & Worst Seller)
-├── Pizza Sales Images/ ← Folder containing pizza icon/image for dashboard icon
-├── requirements.txt ← Python dependencies
-├── SQL Queries.docx ← SQL logic used for dashboard KPIs and charts
-└── README.md ← Project documentation
+📦 Pizza Sales Dashboard  
+│  
+├── pizza_sales.csv ← Raw data file  
+├── export_data.py ← Script to load CSV into MySQL  
+├── Pizza Tableau 1.jpg ← Background for Dashboard 1 (Home)  
+├── Pizza Tableau 2.jpg ← Background for Dashboard 2 (Best & Worst Seller)  
+├── Pizza Sales Images/ ← Folder containing pizza icon/image for dashboard icon  
+├── requirements.txt ← Python dependencies  
+├── SQL Queries.docx ← SQL logic used for dashboard KPIs and charts  
+└── README.md ← Project documentation  
 
 ### 🔧 Prerequisites
 - Make sure you have **Python 3.x** and **pip** installed on your system.
